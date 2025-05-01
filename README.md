@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nooshin Javadzade, a Computer Engineering student at Sharif University of Technology.  
-- 👀 I’m interested in web development and exploring new technologies.  
+- 👀 I’m interested in web development and exploring new technologies. I also enjoy working with low-level programming.  
 - 📫 How to reach me: Email: javadzadenooshin@gmail.com  
 - 😄 Pronouns: She/Her
 
